@@ -7,14 +7,17 @@ Este repositório reúne **duas implementações paralelas** do conceito de *gra
 - **Alocação de registradores em compiladores**
 - **Alocação de canais em redes móveis**
 
-Apesar de atuarem em contextos distintos, ambas as áreas utilizam estruturas e algoritmos semelhantes — especialmente **grafos de interferência**, **coloração** e **spilling**.  
+Apesar de atuarem em contextos distintos, ambas as áreas utilizam estruturas e algoritmos semelhantes, especialmente grafos de interferência, coloração e spilling.  
 Este projeto demonstra essa relação **lado a lado**.
 
 # Estrutura do Repositório
-/
+
 ├── alocacao_registradores.py     # Implementação para compiladores
+
 ├── alocacao_canais.py            # Implementação para redes móveis
+
 ├── teste_registrador.py          # Testes da parte de registradores
+
 └── teste_canais.py               # Testes da parte de redes móveis
 
 
