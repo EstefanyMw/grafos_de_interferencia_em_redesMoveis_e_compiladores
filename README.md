@@ -1,5 +1,6 @@
 # Grafos de Interferência em Redes Móveis e Compiladores
 Aluna: Estefany Licinha Mendes da Silva
+
 Disciplina: Teoria dos Grafos
 
 Este repositório reúne **duas implementações paralelas** do conceito de *grafos de interferência*:
@@ -8,7 +9,7 @@ Este repositório reúne **duas implementações paralelas** do conceito de *gra
 - **Alocação de canais em redes móveis**
 
 Apesar de atuarem em contextos distintos, ambas as áreas utilizam estruturas e algoritmos semelhantes, especialmente grafos de interferência, coloração e spilling.  
-Este projeto demonstra essa relação **lado a lado**.
+Este projeto demonstra essa relação lado a lado.
 
 # Estrutura do Repositório
 
